@@ -1,0 +1,15 @@
+.icon{
+    display: flex;
+    justify-content: center;
+
+}
+.icon .mood i{
+    
+    /* color: rgb(212, 255, 0); */
+    font-size: 100px;
+    margin-top: 350px;
+    cursor: pointer;
+}
+body{
+    background-color: yellow;
+}
